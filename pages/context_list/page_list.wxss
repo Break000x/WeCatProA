@@ -1,0 +1,17 @@
+/* pages/page_list/page_list.wxss */
+.context_list{
+  margin-bottom: 1px;
+  margin-top: 0px;
+}
+page{
+  background-color: Silver;
+}
+.page__bd{
+    height: 100%;
+}
+.page__bd{
+    padding-bottom: 0;
+}
+.weui-navbar{
+  background-color: White;
+}
